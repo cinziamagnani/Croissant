@@ -1,0 +1,45 @@
+body {
+    background-color: #F8E9A6;
+    font-family: "baskerville",serif;
+    font-weight: 100;
+}
+
+.content {
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "larish neue",serif;
+}
+
+.links {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+a {
+    color: #EF8800;
+}
+.bottom-links {
+    margin: 0 10px;
+}
+
+a:hover {
+    color: #AE5500;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    height: 550px;
+    max-width: auto;
+}
+
+.short-p {
+    text-align: center;
+}
